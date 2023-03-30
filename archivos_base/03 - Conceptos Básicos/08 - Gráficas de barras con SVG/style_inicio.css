@@ -1,0 +1,16 @@
+svg{
+    border: 1px solid #aaa;
+}
+
+rect{
+    fill: #4682B4;
+    stroke: #aaa;
+    stroke-width: 1px;
+}
+
+text{
+    font: size 10px;
+    font-family: helvetica;
+    text-anchor: middle
+
+}
